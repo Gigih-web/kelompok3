@@ -1,0 +1,41 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-11-18",
+  "summary": {
+    "title": "STRIDE - Kasus A - Presensi QR",
+    "owner": "Kelompok 3",
+    "description": "\tAnalisis ancaman keamanan sistem presensi perkuliahan berbasis QR Code menggunakan metode STRIDE.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Abdurrahman Gigih"
+      },
+      {
+        "name": "Africa Nurhanrafif"
+      },
+      {
+        "name": "Ervin Setyanata Kusuma"
+      },
+      {
+        "name": "Alfiko Fidanzato"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "DFD Sistem Presensi QR",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Dosen ",
+    "threatTop": 0
+  }
+}
