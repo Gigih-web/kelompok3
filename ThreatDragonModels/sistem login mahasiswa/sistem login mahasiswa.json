@@ -1,0 +1,42 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-11-18",
+  "summary": {
+    "title": "sistem login mahasiswa",
+    "owner": "kelompok demo",
+    "description": "threath modeling sistem login dan profil mahasiswa berbasis web",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Abdurrahman Gigih"
+      },
+      {
+        "name": "Africa Nurhanrafif"
+      },
+      {
+        "name": "Ervin Setyanata Kusuma"
+      },
+      {
+        "name": "Alfiko Fidanzato"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "DFD login dan profil mahasiswa",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "p"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "dosen praktikum",
+    "threatTop": 0
+  }
+}
